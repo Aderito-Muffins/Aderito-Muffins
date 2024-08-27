@@ -59,4 +59,8 @@ onde compartilho tutoriais e dicas sobre tecnologia.
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/aderitomuffins" alt="Facebook"/></a>
   <a href="https://www.instagram.com/aderito_muffins" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/aderito_muffins" alt="Instagram"/></a>
+<a href="https://aderito-muffins.web.app/" title="Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&labelColor=000000&logo=web&logoColor=white" alt="Portfolio"/>
+</a>
+
 </p>
