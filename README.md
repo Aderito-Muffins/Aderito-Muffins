@@ -3,7 +3,10 @@
 <h2 align="left">Olá, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Sou Aderito Muffins!</h2>
 
 <p align="left">
-  Sou desenvolvedor de software, pentester, designer gráfico e empreendedor. Estou cursando a licenciatura em Informática na Universidade Eduardo Mondlane, em Maputo, com previsão de conclusão em 2027. Também sou fundador da <strong>Muffins Service</strong>, onde ofereço serviços de criação de websites e aplicativos. Atualmente, estou desenvolvendo a API oficial da plataforma de streaming <strong>Muffins TV</strong>. No meu tempo livre, crio conteúdos técnicos no meu canal do YouTube, <strong>Aderito Muffins</strong>, onde compartilho tutoriais e dicas sobre tecnologia.
+ <strong>Sou desenvolvedor de software, pentester, designer gráfico e empreendedor.</strong>
+Atualmente, estou desenvolvendo a API oficial da plataforma de streaming <strong>Muffins TV</strong>.
+No meu tempo livre, crio conteúdos técnicos no meu canal do YouTube, <strong>Aderito Muffins</strong>, 
+onde compartilho tutoriais e dicas sobre tecnologia.
 </p>
 
 ---
