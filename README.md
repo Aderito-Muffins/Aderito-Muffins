@@ -1,19 +1,61 @@
-<h1 align="center">Eu sou Aderito Muffins</h1>
-<h3 align="center">Sou desenvolvedor de software, pentester, designer gráfico e empreendedor.</strong> Atualmente, estou desenvolvendo uma API para uma plataforma de streaming, com foco em melhores práticas de arquitetura de software e segurança cibernética. Tenho experiência em testes de descoberta e estou criando soluções digitais externas para o mercado de Moçambique.</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- Actualmente a trabalhar **MUFFINS TV**
+<h2 align="left">Olá, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Sou Aderito Muffins!</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p alinhar="esquerda">
-<a href="https://instagram.com/aderito_muffins" target="blank"><img alinhar="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aderito_muffins" height="30" width="40" /></a>
-<a href="https:/ /www.youtube.com/c/aderito_muffins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aderito_muffins" height="30" width=" 40" /></a>
+<p align="left">
+ <strong>Sou desenvolvedor de software, pentester, designer gráfico e empreendedor.</strong> 
+ Atualmente, estou desenvolvendo uma API para uma plataforma de streaming, com foco em melhores práticas de arquitetura de software e segurança cibernética. Tenho experiência em testes de penetração e estou criando soluções digitais voltadas para o mercado de Moçambique.
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/br/produtos/ilustrador.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="ilustrador" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="carteiro" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aderito-muffins&show_icons=true&locale=en&layout=compact" alt="aderito-muffins" /></p>
+<h3 align="left">Linguagens & Ferramentas</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
+</p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=aderito-muffins&show_icons=true&locale=en" alt="aderito-muffins" /></p> <p>
+---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aderito-muffins&" alt="aderito-muffins" /></p>
+<h3 align="left">Projetos & Habilidades</h3>
+<p align="left">
+  Tenho experiência em desenvolver soluções digitais que incorporam práticas de segurança cibernética. Participei de testes de penetração em sistemas de grandes instituições e estou comprometido em criar produtos digitais que atendam às necessidades do mercado.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Segurança%20Cibernética-%2338B2AC.svg?&style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Segurança Cibernética" />
+  <img src="https://img.shields.io/badge/Design%20Gráfico-%23F24E1E.svg?&style=for-the-badge&logo=graphicdesign&logoColor=white" alt="Design Gráfico" />
+  <img src="https://img.shields.io/badge/Empreendedorismo-%23FFA500.svg?&style=for-the-badge&logo=entrepreneur&logoColor=white" alt="Empreendedorismo" />
+  <img src="https://img.shields.io/badge/Inovação-%2379C143.svg?&style=for-the-badge&logo=innovation&logoColor=white" alt="Inovação" />
+</p>
+
+---
+
+<h3 align="left">Vamos Conectar!</h3>
+<p align="left">
+  💌 **Entre em contato comigo:** ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:mufumeaderito@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mufumeaderito@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/aderito-muffins" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aderito-muffins" alt="LinkedIn"/></a>
+  <a href="https://api.whatsapp.com/send?phone=258858782674" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=258858782674" alt="WhatsApp"/></a>
+  <a href="https://www.facebook.com/aderitomuffins" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/aderitomuffins" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/aderito_muffins" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/aderito_muffins" alt="Instagram"/></a>
+<a href="https://aderito-muffins.web.app/" title="Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&labelColor=000000&logo=web&logoColor=white" alt="Portfolio"/>
+</a>
+</p>
