@@ -4,7 +4,7 @@
 
 <p align="left">
  <strong>Sou desenvolvedor de software, pentester, designer gráfico e empreendedor.</strong> 
- Atualmente, estou desenvolvendo uma API para uma plataforma de streaming, com foco em melhores práticas de arquitetura de software e segurança cibernética. Tenho experiência em testes de penetração e estou criando soluções digitais voltadas para o mercado de Moçambique.
+Sou desenvolvedor de software,criador de conteudos e empreendedor. Atualmente, estou trabalhando na Muffins Services como desenvolvedor de software. Tenho experiência em testes de penetração e estou criando soluções digitais voltadas para o mercado de Moçambique, com foco em melhores práticas de arquitetura de software e segurança cibernética.
 </p>
 
 ---
