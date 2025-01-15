@@ -27,7 +27,7 @@
 
 <h3 align="left">Projetos & Habilidades</h3>
 <p align="left">
-  Tenho experiência em desenvolver soluções digitais que incorporam práticas de segurança cibernética. Participei de testes de penetração em sistemas de grandes instituições e estou comprometido em criar produtos digitais que atendam às necessidades do mercado.
+  Tenho experiência em desenvolver soluções digitais que incorporam práticas de segurança cibernética. Estou comprometido em criar produtos digitais que atendam às necessidades do mercado.
 </p>
 
 <p align="left">
