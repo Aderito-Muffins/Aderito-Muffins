@@ -3,8 +3,8 @@
 <h2 align="left">Olá, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Sou Aderito Muffins!</h2>
 
 <p align="left">
- <strong>Sou desenvolvedor de software,criador de conteudos e empreendedor.</strong> 
- Atualmente, estou trabalhando na Muffins Services como desenvolvedor de software. Tenho experiência em testes de penetração e estou criando soluções digitais voltadas para o mercado de Moçambique, com foco em melhores práticas de arquitetura de software e segurança cibernética.
+ <strong>Sou desenvolvedor de software, pentester e criador de conteúdo</strong> 
+Com foco em tecnologia e segurança digital. Minha especialidade é criar soluções digitais inovadoras, desenvolvendo sistemas que otimizam processos e facilitam o compartilhamento de informações. Além disso, produzo conteúdos educativos, simplificando temas complexos de tecnologia e segurança para torná-los acessíveis. Meu objetivo é transformar ideias em soluções práticas, impactando positivamente negócios e indivíduos.
 </p>
 
 ---
