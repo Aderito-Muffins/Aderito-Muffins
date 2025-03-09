@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h2 align="left">Olá, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Sou Aderito Muffins!</h2>
+<h2 align="left">Olá, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Eu sou Adérito Muffins!</h2>
 
 <p align="left">
  <strong>Sou desenvolvedor de software, pentester e criador de conteúdo</strong> 
