@@ -3,7 +3,6 @@
 <h2 align="left">Olá, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Eu sou Adérito Muffins!</h2>
 
 <p align="left">
- <strong>Desenvolvedor de Software & Fundador</strong> 
 Sou Adérito Muffins- desenvolvedor de software, empreendedor e fundador da Muffins Corp.
 </p>
 
