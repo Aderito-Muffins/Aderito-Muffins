@@ -3,8 +3,8 @@
 <h2 align="left">Olá, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Eu sou Adérito Muffins!</h2>
 
 <p align="left">
- <strong>Sou desenvolvedor de software, pentester e criador de conteúdo</strong> 
-Com foco em tecnologia e segurança digital. Minha especialidade é criar soluções digitais inovadoras, desenvolvendo sistemas que otimizam processos e facilitam o compartilhamento de informações. Além disso, produzo conteúdos educativos, simplificando temas complexos de tecnologia e segurança para torná-los acessíveis. Meu objetivo é transformar ideias em soluções práticas, impactando positivamente negócios e indivíduos.
+ <strong>Desenvolvedor de Software & Fundador</strong> 
+Sou Adérito Muffins- desenvolvedor de software, empreendedor e fundador da Muffins Corp.
 </p>
 
 ---
