@@ -27,17 +27,18 @@
 
 ---
 
-### 01 / GitHub Activity
+
+<h2>01 / GitHub Activity</h2>
 
 <p align="center">
   <a href="https://committers.top/mozambique_private">
-    <img src="https://user-badge.committers.top/mozambique_private/Aderito-Muffins" alt="GitHub Mozambique Private Contributions Ranking"/>
+    <img src="https://img.shields.io/badge/Mozambique_Ranking-26th-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aderito-Muffins&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Aderito-Muffins&theme=transparent&hide_border=true" height="165"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aderito-Muffins&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Aderito-Muffins&theme=transparent&hide_border=true" />
 </p>
 
 ---
